@@ -21,7 +21,7 @@ A list about all things computer graphics related.
 
 
 ### Sites
-* [ScratchAPixel] (https://www.scratchapixel.com/index.php?#_=_), teaches image redering from basic do advanced
+* [ScratchAPixel](https://www.scratchapixel.com/index.php?#_=_), teaches image redering from basic do advanced
 
 
 ### Tutorials
