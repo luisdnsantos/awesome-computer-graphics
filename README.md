@@ -15,7 +15,7 @@ A list about all things computer graphics related.
 * Advanced Global Illumination, by Philip Dutre.
 
 
-### Courses.
+### Courses
 * [Computer Graphics & Imaging - Berkeley](https://cs184.eecs.berkeley.edu/), by Ren Ng (Spring 2018).
 
 
