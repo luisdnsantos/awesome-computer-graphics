@@ -25,6 +25,6 @@ A list about all things computer graphics related.
 
 
 ### Tutorials
-* [http://www.opengl-tutorial.org/], tutorial for learning OpenGL 3.3 or higher
+* [Learn OpenGL](http://www.opengl-tutorial.org/), tutorial for learning OpenGL 3.3 or higher
 
 
