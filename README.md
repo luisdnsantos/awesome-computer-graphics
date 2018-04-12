@@ -15,7 +15,7 @@ A list about all things computer graphics related.
 * Advanced Global Illumination, by Philip Dutre.
 * Foundations of 3D Computer Graphics, by Steven Gortler.
 * Computer Graphics Through OpenGL: From Theory to Experiments, by Sumanta Guha.
-* Interactive Computer Graphics: A Top-Down Approach with WebGL, Edward Angel.
+* Interactive Computer Graphics: A Top-Down Approach with WebGL, by Edward Angel.
 
 
 ### Courses
