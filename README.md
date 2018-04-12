@@ -13,6 +13,7 @@ A list about all things computer graphics related.
 * Computer Graphics: Principles and Practice, by James Foley.
 * Real-Time Rendering, by Tomas Akenine-Moller.
 * Advanced Global Illumination, by Philip Dutre.
+* Foundations of 3D Computer Graphics, by Steven Gortler. 
 
 
 ### Courses
