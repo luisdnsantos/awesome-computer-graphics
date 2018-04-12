@@ -17,6 +17,7 @@ A list about all things computer graphics related.
 
 ### Courses
 * [Computer Graphics & Imaging - Berkeley](https://cs184.eecs.berkeley.edu/), by Ren Ng (Spring 2018).
+* [Computer Graphics - San Diego](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-3), by Ravi Ramamoorthi.
 
 
 
