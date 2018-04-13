@@ -18,6 +18,7 @@ A list about all things graphics-related.
 * Interactive Computer Graphics: A Top-Down Approach with WebGL, by Edward Angel.
 * OpenGL Programming Guide: The Official Guide to Learning OpenGL, by Dave Shreiner.
 * 3D Math Primer for Graphics and Game Development, by Fletcher Dunn.
+* Physically Based Rendering, by Matt Pharr.
 
 
 ### Courses
