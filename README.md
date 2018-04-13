@@ -17,6 +17,7 @@ A list about all things computer graphics related.
 * Computer Graphics Through OpenGL: From Theory to Experiments, by Sumanta Guha.
 * Interactive Computer Graphics: A Top-Down Approach with WebGL, by Edward Angel.
 * OpenGL Programming Guide: The Official Guide to Learning OpenGL, by Dave Shreiner.
+* 3D Math Primer for Graphics and Game Development, by Fletcher Dunn.
 
 
 ### Courses
