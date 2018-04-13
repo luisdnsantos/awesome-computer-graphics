@@ -1,6 +1,6 @@
 # Awesome Computer Graphics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list about all things computer graphics related.
+A list about all things graphics-related.
 
 ## Contents
 
