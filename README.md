@@ -7,7 +7,6 @@ A list about all things graphics-related.
 * **[Books](#books)** 
 * **[Courses](#courses)**
 * **[Sites](#sites)**
-* **[Tutorials](tutorials)**
 
 ### Books
 * Computer Graphics: Principles and Practice, by James Foley.
