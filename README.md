@@ -5,8 +5,10 @@ A list about all things graphics-related.
 ## Contents
 
 * **[Books](#books)** 
+* **[Libraries](#libraries)
 * **[Courses](#courses)**
 * **[Sites](#sites)**
+
 
 ### Books
 * Computer Graphics: Principles and Practice, by James Foley.
@@ -19,6 +21,8 @@ A list about all things graphics-related.
 * 3D Math Primer for Graphics and Game Development, by Fletcher Dunn.
 * Physically Based Rendering, by Matt Pharr.
 
+### Libraries
+* [OpenGL](https://www.opengl.org/)
 
 ### Courses
 * [Computer Graphics & Imaging - Berkeley](https://cs184.eecs.berkeley.edu/), by Ren Ng (Spring 2018).
