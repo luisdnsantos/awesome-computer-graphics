@@ -5,7 +5,7 @@ A list about all things graphics-related.
 ## Contents
 
 * **[Books](#books)** 
-* **[Libraries](#libraries)
+* **[Libraries](#libraries) **
 * **[Courses](#courses)**
 * **[Sites](#sites)**
 
