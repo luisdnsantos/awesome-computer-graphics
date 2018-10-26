@@ -23,6 +23,8 @@ Computer Graphics is a sub-field of computer science, that studies how to create
 
 * [3D Math Primer for Graphics and Game Development](https://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/ref=sr_1_1?s=books&ie=UTF8&qid=1540517337&sr=1-1&keywords=3d+math+prime), by Fletcher Dunn, this books gives more focus to the math necessary for game development, this book does not cover topics like global illumination.
 
+* [Ray Tracing from the Ground Up](http://www.raytracegroundup.com/), by Kevin Suffern, guides you through the task of implement a ray tracer, starting with a bare-bones project, and every chapter introduces a new conpect to add to the renderer.
+
 * [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074/ref=sr_1_1?s=books&ie=UTF8&qid=1540517779&sr=1-1&keywords=advanced+global), by Philip Dutre, its focus are fundamentals to understand realistic image synthesis, such as light transport.
 
 * [Realistic Image Synthesis Using Photon Mapping](https://www.amazon.com/Realistic-Synthesis-Mapping-Revised-Paperback/dp/B011DC2J3O/ref=sr_1_1?s=books&ie=UTF8&qid=1540518657&sr=1-1&keywords=photon+mapping), by Henrik Jensen, teaches math and algorithms to implement the photon mapping rendering process. It even has a complete C++ inplementation of the technique!
