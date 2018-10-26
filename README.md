@@ -1,6 +1,10 @@
 # Awesome Computer Graphics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list about all things graphics-related.
+The Awesome CG List! A collection of various resources to learn computer graphics, including books, tutorials, online courses, and more. Name a CG topic, chances are this list contains some stuff about it (if not, it is just a matter of time!).
+
+### What is this "computer graphics" stuff?
+Computer Graphics is a sub-field of computer science, that studies how to create images through computers, sometimes in the most efficient way possible.
+
 
 ## Contents
 
