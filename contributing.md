@@ -6,6 +6,13 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
 
+## Rules of pull requests
+- First, read the [template for pull requests](pull-request-template.md).
+- Your proposed entry to this list must have this format: **"[Entry name], [IF BOOK: Author name], [Brief description about why this stuff is awesome]**
+  
+
+## Creating your pull request
+
 You'll need a [GitHub account](https://github.com/join)!
 
 1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
