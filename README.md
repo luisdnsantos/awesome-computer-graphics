@@ -52,4 +52,9 @@ Computer Graphics is a sub-field of computer science, that studies how to create
 * [Learn OpenGL](https://learnopengl.com/), resource site, contains tutorials by topic, code examples and even has a pdf version of its contents.
 * [OpenGL tutorial](http://www.opengl-tutorial.org/), tutorial for learning OpenGL 3.3 or higher.
 
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Luís Santos](https://github.com/lhns) has waived all copyright and related or neighboring rights to this work.
 
