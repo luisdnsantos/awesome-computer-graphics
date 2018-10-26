@@ -33,7 +33,7 @@ A list about all things graphics-related.
 
 
 ### Libraries
-* [OpenGL](https://www.opengl.org/), one of the most, if not the most popular graphics api.
+* [OpenGL](https://www.opengl.org/), one of the most, if not the most popular graphics API.
 
 ### Courses
 * [Computer Graphics - San Diego](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-3), by Ravi Ramamoorthi, this course focus on learning the necessary math to program a offline ray tracer.
