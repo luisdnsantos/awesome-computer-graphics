@@ -11,24 +11,34 @@ A list about all things graphics-related.
 
 
 ### Books
-* Computer Graphics: Principles and Practice, by James Foley.
-* Real-Time Rendering, by Tomas Akenine-Moller.
-* Advanced Global Illumination, by Philip Dutre.
-* Foundations of 3D Computer Graphics, by Steven Gortler.
-* Computer Graphics Through OpenGL: From Theory to Experiments, by Sumanta Guha.
-* Interactive Computer Graphics: A Top-Down Approach with WebGL, by Edward Angel.
-* OpenGL Programming Guide: The Official Guide to Learning OpenGL, by Dave Shreiner.
-* 3D Math Primer for Graphics and Game Development, by Fletcher Dunn.
-* Physically Based Rendering, by Matt Pharr.
+* [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003/ref=sr_1_1?s=books&ie=UTF8&qid=1540516813&sr=1-1&dpID=51iw1UWKNhL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch), by Tomas Akenine-Moller, one of the best on high performance graphical applications, very detailed but always shows relevant real-life examples of the explained topic.
+
+* [Physically Based Rendering](https://www.amazon.com/Physically-Based-Rendering-Theory-Implementation/dp/0128006455/ref=sr_1_1?s=books&ie=UTF8&qid=1540517251&sr=1-1&keywords=physically+based+rendering), by Matt Pharr, very code-focused book, goes back and forth between theory and its C++ implementations.
+
+* [3D Math Primer for Graphics and Game Development](https://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/ref=sr_1_1?s=books&ie=UTF8&qid=1540517337&sr=1-1&keywords=3d+math+prime), by Fletcher Dunn, this books gives more focus to the math necessary for game development, this book does not cover topics like global illumination.
+
+* [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074/ref=sr_1_1?s=books&ie=UTF8&qid=1540517779&sr=1-1&keywords=advanced+global), by Philip Dutre, its focus are fundamentals to understand realistic image synthesis, such as light transport.
+
+[//]: # ( * Computer Graphics: Principles and Practice, by James Foley.)
+
+[//]: # (* Foundations of 3D Computer Graphics, by Steven Gortler.)
+
+[//]: # (* Computer Graphics Through OpenGL: From Theory to Experiments, by Sumanta Guha.)
+
+[//]: # (* Interactive Computer Graphics: A Top-Down Approach with WebGL, by Edward Angel.)
+
+[//]: # (* OpenGL Programming Guide: The Official Guide to Learning OpenGL, by Dave Shreiner.)
+
 
 ### Libraries
-* [OpenGL](https://www.opengl.org/)
+* [OpenGL](https://www.opengl.org/), one of the most, if not the most popular graphics api.
 
 ### Courses
-* [Computer Graphics & Imaging - Berkeley](https://cs184.eecs.berkeley.edu/), by Ren Ng (Spring 2018).
-* [Computer Graphics - San Diego](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-3), by Ravi Ramamoorthi.
+* [Computer Graphics - San Diego](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-3), by Ravi Ramamoorthi, this course focus on learning the necessary math to program a offline ray tracer.
+
 * [SIGGRAPH University](https://www.youtube.com/playlist?list=PLUPhVMQuDB_aWSKj7L_-3Ot_nxBze_YMy), playlist with popular courses from the annual SIGGRAPH Conference.
 
+[//]: # (* [Computer Graphics & Imaging - Berkeley](https://cs184.eecs.berkeley.edu/, by Ren Ng (Spring 2018.)
 
 
 ### Sites
