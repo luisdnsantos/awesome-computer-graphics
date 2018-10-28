@@ -25,25 +25,15 @@ Computer Graphics is a sub-field of computer science, that studies how to create
 Computer graphics is a knowledge area about how to create images using computers, to put it simply. Generally this is done by processing data representing information what you want to draw, for example: objects, colors, light. Anything about visual and digital creations have used CG in some way: games, movies, comics, you name it.
 
 ### What do I need to know to get started?
-Before showing a lot of books, videos, and materials, first you need to know what is bare-minimum to begin with computer graphics. Being an area about using computers, learning programming is essential. One approach is to learn programming
-is doing a little project, to get used to programming logic. Besides coding, math is obviously necessary, since you will be
-using it to manipulate data to create your results. Vectors, matrices, geometry, all of these are important.  
-  
-So, programming and math. If you have never studied them before, it can be overwhelming at first. To begin programming, take
-a coding course, or tutorial to learn the basics. It is highly recommended to learn C/C++, as they are one of the most relevant 
-languages in high-performance computer graphics. About math, you need to learn concepts from linear algebra, and to understand 
-well geometry as a whole. A useful resource to begin is [this tutorial](https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/geometry) from ScratchAPixel, where you can find very good explanations on this topic. 
+Before showing a lot of books, videos, and materials, first you need to know what is bare-minimum to begin with computer graphics. It boils down to two main topics: programming and math. About the programming, learn the basics, it's recommended 
+to lear C/C++ as they are used frequently in this area. The stuff you need to know about math can be found in [this tutorial](https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/geometry). It teaches you the necessary 
+linear algebra and geometry to create CG programs.
 
 
 ### What if I want to learn more advanced stuff?
-Assuming all of the above is old stuff to you, let's get more detailed. To master computer graphics it's necessary 
-a very good knowledge of math: linear algebra, calculus, and geometry. Physics is important too, since CG can be (and is 
-a lot of times) about simulating realistic phenomenon: refraction, caustics, radiance, indirect illumination. Programming is 
-no different in its level of demand of expertise: good graphics programmers know about code and hardware optimizations, since 
-they will probably create code to run in a GPU, that is used by an operanting system, so they need to fully understand what 
-are their resources to run programs in a efficient way.    
-There's no way around it to get more in-depth: learn linear algebra and calculus. Physics you can learn here and there, if you have to. One way to practice coding, is getting a project like creating a path tracer in C++, or another global illumination 
-rendering process, like photon mapping.
+Assuming you know programming and math, then you can get more practical. It's a good approach to get a project about a topic 
+like global illumination, or GPU programming to deepen your knowledge on this area. Examples of projects are: path tracers, 
+photon mapping, shader programmind (this one is not necessarily advanced, but complex).
 
 ### Very relevant materials
 Regardless of your level of proficiency, this sections show excellent resources that are worth noting first, be it because 
