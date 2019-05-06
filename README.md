@@ -80,6 +80,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [Learn OpenGL](https://learnopengl.com/), resource site, contains tutorials by topic, code examples and even has a pdf version of its contents.
 * [OpenGL tutorial](http://www.opengl-tutorial.org/), tutorial for learning OpenGL 3.3 or higher.
 * [Learn Vulkan](https://vulkan-tutorial.com/), teaches the modern API, created by the same team that created OpenGL.
+* [Shader Toy](https://www.shadertoy.com/), site to create, visualize, and share GLSL shaders. 
 
 ## Projects/Repositories
 * [PBRT](https://github.com/mmp/pbrt-v3), source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation".
