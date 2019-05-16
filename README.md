@@ -85,6 +85,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 ## Projects/Repositories
 * [PBRT](https://github.com/mmp/pbrt-v3), source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation".
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer), course of computer graphics teaching how Opengl and rendering works, teaching how to build a simpler version of OpenGL.
+* [Ray Tracing in One Weekend repository](https://github.com/petershirley/raytracinginoneweekend), ray tracer code based on Ray Tracing in One Weekend's book.
 
 
 ## License
