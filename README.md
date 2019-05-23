@@ -88,6 +88,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer), course of computer graphics teaching how Opengl and rendering works, teaching how to build a simpler version of OpenGL.
 * [Ray Tracing in One Weekend repository](https://github.com/petershirley/raytracinginoneweekend), ray tracer code based on Ray Tracing in One Weekend's book.
 * [Fragmentarium](http://syntopia.github.io/Fragmentarium/), program to edit and visualize GLSL shaders, mainly focused on fractals and generative systems
+* [Business Card Ray Tracer](http://eastfarthing.com/blog/2016-01-12-card/), as the name sugests, it's a very small ray tracer, 35 lines (minified) and file size is 1377 bytes.
 
 
 ## License
