@@ -86,6 +86,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [PBRT](https://github.com/mmp/pbrt-v3), source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation".
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer), course of computer graphics teaching how Opengl and rendering works, teaching how to build a simpler version of OpenGL.
 * [Ray Tracing in One Weekend repository](https://github.com/petershirley/raytracinginoneweekend), ray tracer code based on Ray Tracing in One Weekend's book.
+* [Fragmentarium](http://syntopia.github.io/Fragmentarium/), program to edit and visualize GLSL shaders, mainly focused on fractals and generative systems
 
 
 ## License
