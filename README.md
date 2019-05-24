@@ -82,6 +82,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [Learn Vulkan](https://vulkan-tutorial.com/), teaches the modern API, created by the same team that created OpenGL.
 * [Shader Toy](https://www.shadertoy.com/), site to create, visualize, and share GLSL shaders.
 * [Real-Time Rendering recommended books](http://www.realtimerendering.com/books.html), list of recommended books on the Real-Time Rendering's site.
+* [Jendrik Illner's blog](https://www.jendrikillner.com/tags/weekly/), Illner works for Ubisoft as a 3D programmer, every week he posts a summary of articles about 3D graphics, like shader tutorials, real-time rendering papers, etc.
 
 ## Projects/Repositories
 * [PBRT](https://github.com/mmp/pbrt-v3), source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation".
