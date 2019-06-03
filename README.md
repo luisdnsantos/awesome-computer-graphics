@@ -91,6 +91,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [Fragmentarium](http://syntopia.github.io/Fragmentarium/), program to edit and visualize GLSL shaders, mainly focused on fractals and generative systems
 * [Business Card Ray Tracer](http://eastfarthing.com/blog/2016-01-12-card/), as the name sugests, it's a very small ray tracer, 35 lines (minified) and file size is 1377 bytes.
 * [Small PT](http://www.kevinbeason.com/smallpt/), path tracer made in 99 lines in C++.
+* [Marble Marcher](https://codeparade.itch.io/marblemarcher), a game where you get to move a marble through fractal stages as fast as possible to reach the goal. This game is entirely ray marched, giving it a lot of cool visual effects ray tracing it not able to. 
 
 
 ## License
