@@ -33,9 +33,9 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 ### Books
 * [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003/ref=sr_1_1?s=books&ie=UTF8&qid=1540516813&sr=1-1&dpID=51iw1UWKNhL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch), by Tomas Akenine-Moller, one of the best on high performance graphical applications, very detailed explanations and contains many examples to illustrate its topics.
 
-* [Ray Tracing in One Weekend](http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf), by Peter Shirley, a free book to get you implementing a basic ray tracer in C++, the catch is: this one is very short (about 40 pages), you'll learn the mininum to create a ray tracer to generate amazing images in a very short ammount of time!
+* [Ray Tracing in One Weekend](http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf), by Peter Shirley, a free book to get you implementing a basic ray tracer in C++, the catch is: this one is very short (about 40 pages), you'll learn the minimum to create a ray tracer to generate amazing images in a very short amount of time!
 
-* [Ray Tracing: The Next Week](http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf), by Peter Shirley, builds on top of the first books's project, adding more effects, like textures and motion blur.
+* [Ray Tracing: The Next Week](http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf), by Peter Shirley, builds on top of the first books' project, adding more effects, like textures and motion blur.
 
 * [Ray Tracing: The Rest of Your Life](http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf), by Peter Shirley, last book of the series, exposes more mathematical themes necessary to build more complex and complete renderers.
 
@@ -46,26 +46,26 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 
 * [Fundamentals of Computer Graphics](https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner/dp/1482229390/ref=sr_1_1?ie=UTF8&qid=1541094572&sr=8-1&keywords=fundamentals+of+computer+graphics), by Steve Marschner, introduces graphics concepts. 
 
-* [Ray Tracing from the Ground Up](http://www.raytracegroundup.com/), by Kevin Suffern, guides you through the task of implement a ray tracer, starting with a bare-bones project, and every chapter introduces a new conpect to add to the renderer.
+* [Ray Tracing from the Ground Up](http://www.raytracegroundup.com/), by Kevin Suffern, guides you through the task of implement a ray tracer, starting with a bare-bones project, and every chapter introduces a new concept to add to the renderer.
 
 * [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074/ref=sr_1_1?s=books&ie=UTF8&qid=1540517779&sr=1-1&keywords=advanced+global), by Philip Dutre, its focus are fundamentals to understand realistic image synthesis, such as light transport.
 
-* [Realistic Image Synthesis Using Photon Mapping](https://www.amazon.com/Realistic-Synthesis-Mapping-Revised-Paperback/dp/B011DC2J3O/ref=sr_1_1?s=books&ie=UTF8&qid=1540518657&sr=1-1&keywords=photon+mapping), by Henrik Jensen, teaches math and algorithms to implement the photon mapping rendering process. It even has a complete C++ inplementation of the technique!
+* [Realistic Image Synthesis Using Photon Mapping](https://www.amazon.com/Realistic-Synthesis-Mapping-Revised-Paperback/dp/B011DC2J3O/ref=sr_1_1?s=books&ie=UTF8&qid=1540518657&sr=1-1&keywords=photon+mapping), by Henrik Jensen, teaches math and algorithms to implement the photon mapping rendering process. It even has a complete C++ implementation of the technique!
 
-[//]: # ( * Computer Graphics: Principles and Practice, by James Foley.)
+[//]: # " * Computer Graphics: Principles and Practice, by James Foley."
 
-[//]: # (* Foundations of 3D Computer Graphics, by Steven Gortler.)
+[//]: # "* Foundations of 3D Computer Graphics, by Steven Gortler."
 
-[//]: # (* Computer Graphics Through OpenGL: From Theory to Experiments, by Sumanta Guha.)
+[//]: # "* Computer Graphics Through OpenGL: From Theory to Experiments, by Sumanta Guha."
 
-[//]: # (* Interactive Computer Graphics: A Top-Down Approach with WebGL, by Edward Angel.)
+[//]: # "* Interactive Computer Graphics: A Top-Down Approach with WebGL, by Edward Angel."
 
-[//]: # (* OpenGL Programming Guide: The Official Guide to Learning OpenGL, by Dave Shreiner.)
+[//]: # "* OpenGL Programming Guide: The Official Guide to Learning OpenGL, by Dave Shreiner."
 
 
 ### Libraries
 * [OpenGL](https://www.opengl.org/), one of the most, if not the most popular graphics API.
-* [Vulkan](https://www.khronos.org/vulkan/), created by the same guys from OpenGL with the intent to provide an API with better perfomance than its predecessor.
+* [Vulkan](https://www.khronos.org/vulkan/), created by the same guys from OpenGL with the intent to provide an API with better performance than its predecessor.
 
 ### Courses
 * [Computer Graphics - San Diego](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-3), by Ravi Ramamoorthi, this course focus on learning the necessary math to program a offline ray tracer.
@@ -76,7 +76,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 
 
 ### Sites
-* [ScratchAPixel](https://www.scratchapixel.com/index.php?#_=_), teaches image redering from basic to advanced.
+* [ScratchAPixel](https://www.scratchapixel.com/index.php?#_=_), teaches image rendering from basic to advanced.
 * [Learn OpenGL](https://learnopengl.com/), resource site, contains tutorials by topic, code examples and even has a pdf version of its contents.
 * [OpenGL tutorial](http://www.opengl-tutorial.org/), tutorial for learning OpenGL 3.3 or higher.
 * [Learn Vulkan](https://vulkan-tutorial.com/), teaches the modern API, created by the same team that created OpenGL.
@@ -89,7 +89,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer), course of computer graphics teaching how Opengl and rendering works, teaching how to build a simpler version of OpenGL.
 * [Ray Tracing in One Weekend repository](https://github.com/petershirley/raytracinginoneweekend), ray tracer code based on Ray Tracing in One Weekend's book.
 * [Fragmentarium](http://syntopia.github.io/Fragmentarium/), program to edit and visualize GLSL shaders, mainly focused on fractals and generative systems
-* [Business Card Ray Tracer](http://eastfarthing.com/blog/2016-01-12-card/), as the name sugests, it's a very small ray tracer, 35 lines (minified) and file size is 1377 bytes.
+* [Business Card Ray Tracer](http://eastfarthing.com/blog/2016-01-12-card/), as the name suggests, it's a very small ray tracer, 35 lines (minified) and file size is 1377 bytes.
 * [Small PT](http://www.kevinbeason.com/smallpt/), path tracer made in 99 lines in C++.
 * [Marble Marcher](https://codeparade.itch.io/marblemarcher), a game where you get to move a marble through fractal stages as fast as possible to reach the goal. This game is entirely ray marched, giving it a lot of cool visual effects ray tracing it not able to. 
 
