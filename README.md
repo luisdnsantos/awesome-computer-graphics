@@ -96,6 +96,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [Marble Marcher](https://codeparade.itch.io/marblemarcher), a game where you get to move a marble through fractal stages as fast as possible to reach the goal. This game is entirely ray marched, giving it a lot of cool visual effects ray tracing it not able to. 
 
 ## Miscellaneous 
+* [Hacker News thread on learning computer graphics](https://news.ycombinator.com/item?id=14652936): thread dicussing on how to learn computer graphics, if you have no time to read the entire thread, [read this comment](https://news.ycombinator.com/item?id=14653343).
 
 ## License
 
