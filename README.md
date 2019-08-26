@@ -95,6 +95,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [Small PT](http://www.kevinbeason.com/smallpt/), path tracer made in 99 lines in C++.
 * [Marble Marcher](https://codeparade.itch.io/marblemarcher), a game where you get to move a marble through fractal stages as fast as possible to reach the goal. This game is entirely ray marched, giving it a lot of cool visual effects ray tracing it not able to. 
 
+## Miscellaneous 
 
 ## License
 
