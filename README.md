@@ -94,6 +94,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [Business Card Ray Tracer](http://eastfarthing.com/blog/2016-01-12-card/), as the name suggests, it's a very small ray tracer, 35 lines (minified) and file size is 1377 bytes.
 * [Small PT](http://www.kevinbeason.com/smallpt/), path tracer made in 99 lines in C++.
 * [Marble Marcher](https://codeparade.itch.io/marblemarcher), a game where you get to move a marble through fractal stages as fast as possible to reach the goal. This game is entirely ray marched, giving it a lot of cool visual effects ray tracing it not able to. 
+* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners), A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 
 ## Miscellaneous 
 * [Hacker News thread on learning computer graphics](https://news.ycombinator.com/item?id=14652936): thread dicussing on how to learn computer graphics, if you have no time to read the entire thread, [read this comment](https://news.ycombinator.com/item?id=14653343).
