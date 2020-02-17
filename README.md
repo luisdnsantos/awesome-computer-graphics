@@ -99,6 +99,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 ## Miscellaneous 
 * [Hacker News thread on learning computer graphics](https://news.ycombinator.com/item?id=14652936): thread dicussing on how to learn computer graphics, if you have no time to read the entire thread, [read this comment](https://news.ycombinator.com/item?id=14653343).
 * [Computer Color is Broken](https://www.youtube.com/watch?v=LKnqECcg6Gw): video about how color representation/compression in computers can distort the blur effect.
+* [The Art of Code channel](https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg): tutorials on shaders using ShaderToy, mostly videos on procedural generation.
 
 ## License
 
