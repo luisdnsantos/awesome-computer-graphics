@@ -52,6 +52,8 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 
 * [Realistic Image Synthesis Using Photon Mapping](https://www.amazon.com/Realistic-Synthesis-Mapping-Revised-Paperback/dp/B011DC2J3O/ref=sr_1_1?s=books&ie=UTF8&qid=1540518657&sr=1-1&keywords=photon+mapping), by Henrik Jensen, teaches math and algorithms to implement the photon mapping rendering process. It even has a complete C++ implementation of the technique!
 
+[//]: # " * The Ray Tracer Challenge](http://raytracerchallenge.com/), by Jamis Buck"
+
 [//]: # " * Computer Graphics: Principles and Practice, by James Foley."
 
 [//]: # "* Foundations of 3D Computer Graphics, by Steven Gortler."
