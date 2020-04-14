@@ -13,7 +13,7 @@ The Awesome CG List! A collection of various resources to learn computer graphic
 * **[How to get started?](#how-to-get-started)**
 * **[I want to learn more advanced stuff](#i-want-to-learn-more-advanced-stuff)**
 * **[Books](#books)** 
-* **[Libraries](#libraries)**
+* **[Tools](#tools)**
 * **[Courses](#courses)**
 * **[Sites](#sites)**
 
@@ -63,7 +63,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 [//]: # "* OpenGL Programming Guide: The Official Guide to Learning OpenGL, by Dave Shreiner."
 
 
-### Libraries
+### Tools
 * [OpenGL](https://www.opengl.org/), one of the most, if not the most popular graphics API.
 * [Vulkan](https://www.khronos.org/vulkan/), created by the same guys from OpenGL with the intent to provide an API with better performance than its predecessor.
 
