@@ -68,7 +68,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 ### Tools
 * [OpenGL](https://www.opengl.org/), one of the most, if not the most popular graphics API.
 * [Vulkan](https://www.khronos.org/vulkan/), created by the same guys from OpenGL with the intent to provide an API with better performance than its predecessor.
-* [Bonzomatic](https://github.com/Gargaj/Bonzomatic), live-coding edtior for OpenGL pixel shaders, where the results appear on background as you edit the code.
+* [Bonzomatic](https://github.com/Gargaj/Bonzomatic), live-coding editor for OpenGL pixel shaders, where the results appear on background as you edit the code.
 
 ### Courses
 * [Computer Graphics - San Diego](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-3), by Ravi Ramamoorthi, this course focus on learning the necessary math to program a offline ray tracer.
