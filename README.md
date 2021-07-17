@@ -90,6 +90,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [Jendrik Illner's blog](https://www.jendrikillner.com/tags/weekly/), Illner works for Ubisoft as a 3D programmer, every week he posts a summary of articles about 3D graphics, like shader tutorials, real-time rendering papers, etc.
 * [Ray Tracey's blog](http://raytracey.blogspot.com/), Sam Lapere's blog, leads the scientific team at EPFL Blue Brain Project. Lots of post about real time rendering.
 * [Inigo Quilez's site](http://www.iquilezles.org/index.html), articles and shader demos from the co-creator of [Shadertoy](https://www.shadertoy.com/).
+* [3D Math Primer for Graphics and Game Development](https://gamemath.com/), free online edition of the book 3D Math Primer for Graphics and Game Development
 
 ## Projects/Repositories
 * [PBRT](https://github.com/mmp/pbrt-v3), source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation".
